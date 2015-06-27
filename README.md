@@ -1,2 +1,2 @@
 # Tico
-Convenience way to control crawler data flow
+Convenience way to control data flow of crawler.
